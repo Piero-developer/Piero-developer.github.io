@@ -5,7 +5,17 @@ body{
 .dato-personal{
     text-align: center;
 }
-.card{
-    border: 2px solid black;
+.iconos{
+    margin-bottom: 20px;
+}
+#proyectos{
     text-align: center;
+}
+.card{
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 25%;
+    margin: a;
+    padding: 8px;
 }
